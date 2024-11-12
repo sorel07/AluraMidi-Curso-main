@@ -21,7 +21,8 @@ Descarga el código que necesites seleccionando la Branch dentro de este reposit
 ---
  Con :blue_heart: 
 - [Alura Latam](https://www.aluracursos.com/) 
-- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
+- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam)
+- [Desarrollado por: Sorel](https://github.com/sorel07) 
 
 
 
